@@ -13,7 +13,7 @@ This repository provides the prompt templates and disclosure materials for the m
   - `docs/data_availability_statement.md`
   - `docs/code_availability_statement.md`
 - Paper results:
-  - 'gpt-5-2025-08-07'
+  - `gpt-5-2025-08-07`
 
 ## What is not included
 - Raw camera videos and personally identifiable data.
